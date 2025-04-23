@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/mukuljainmj/interview-preparation#readme",
   "devDependencies": {
-    "parcel": "^2.14.4"
+    "@tailwindcss/postcss": "^4.1.4",
+    "parcel": "^2.14.4",
+    "tailwindcss": "^4.1.4"
   },
   "dependencies": {
     "react": "^19.1.0",
