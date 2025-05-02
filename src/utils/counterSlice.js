@@ -6,6 +6,7 @@ const counterSlice = createSlice({
     value: 0,
   },
   reducers: {
+    // action types to action-type-specific case reducer functions
     increment: (state) => {
       state.value += 1; // immer
     },
